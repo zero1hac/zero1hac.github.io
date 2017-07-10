@@ -7,7 +7,7 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Dushyant
+title:            Dushyant Kumar
 tagline:          'Polymath'
 description:      'Polymath, Machine Learning, Deep learning, Data Science, statistics.'
 url:              
@@ -24,3 +24,6 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/zero1hac/zero1hac.github.io
+
+# Gems
+plugins: [jekyll-paginate, jekyll-gist]
