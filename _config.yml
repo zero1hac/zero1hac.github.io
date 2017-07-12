@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            Dushyant Kumar
 tagline:          'Polymath'
-description:      'Polymath, Machine Learning, Deep learning, Data Science, statistics.'
+description:      'Polymath. Machine Learning, Deep learning, Data Science, statistics.'
 url:              
 baseurl:          https://zero1hac.github.io/
 
@@ -20,7 +20,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          2.2.0
 
 github:
   repo:           https://github.com/zero1hac/zero1hac.github.io
