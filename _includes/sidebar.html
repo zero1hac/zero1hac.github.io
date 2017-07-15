@@ -25,11 +25,32 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-    <a class="sidebar-nav-item" href="https://drive.google.com/a/itbhu.ac.in/file/d/0B_fkKA5QL8v6ZmxPU0RQNFBUX0E/view?usp=sharing" onclick="trackOutboundLink('https://drive.google.com/a/itbhu.ac.in/file/d/0B_fkKA5QL8v6ZmxPU0RQNFBUX0E/view?usp=sharing'); return false;">Curriculum Vitae</a>
+    <a class="sidebar-nav-item" href="https://drive.google.com/file/d/0B_fkKA5QL8v6LUNOZnEyd2pDWkU/view?usp=sharing" onclick="trackOutboundLink('https://drive.google.com/file/d/0B_fkKA5QL8v6LUNOZnEyd2pDWkU/view?usp=sharing'); return false;">Curriculum Vitae</a>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/master.zip">Download</a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
-
+    <ul>
+        <li>
+                <a href="https://twitter.com/{{ site.twitter_user }}">
+                    <i class="fa fa-twitter"></i>
+                </a>
+        </li>
+        <li>
+                <a href="https://github.com/{{ site.github_user }}">
+                    <i class="fa fa-github"></i>
+                </a>
+        </li>
+        <li>
+                <a href="https://linkedin.com/in/{{ site.linkedin_user }}">
+                    <i class="fa fa-linkedin"></i>
+                </a>
+        </li>
+        <li>
+                <a href="https://www.facebook.com/{{ site.facebook_user }}">
+                    <i class="fa fa-facebook"></i>
+                </a>  
+        </li>
+    </ul>
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>

@@ -30,3 +30,9 @@ plugins: [jekyll-paginate, jekyll-gist]
 
 #Google analytics
 google_analytics: UA-102416169-1
+
+#Social Buttons
+twitter_user: 6dushyantmishra
+github_user: zero1hac
+facebook_user: 6dushyantmishra20101
+linkedin_user: dushyant-kumar-25033375
