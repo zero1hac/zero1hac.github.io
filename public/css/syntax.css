@@ -63,7 +63,6 @@
 .css .o,
 .css .o + .nt,
 .css .nt + .nt { color: #999; }
-ul#horizontal-line li{
+ul#horizontal-list li{
     display: inline;
 }
-
