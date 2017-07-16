@@ -11,16 +11,16 @@ Since, Docker containers are persistent so there is no chance of messing up the 
 
 ## Specifications
 
- - [Ubuntu 14.04](https://www.ubuntu.com/download)
- - [Tensorflow](https://www.tensorflow.org/)
- - [Caffe](http://caffe.berkeleyvision.org/)
- - [Theano](https://github.com/Theano/Theano)
- - [Keras](https://keras.io/)
- - [Lasagne](https://github.com/Lasagne/Lasagne)
- - [Torch](http://torch.ch/)
- - [Jupyter notebook](http://jupyter.org/)
- - [numpy](http://www.numpy.org/), [scipy](https://www.scipy.org/), [pandas](http://pandas.pydata.org/), [scikit-learn](http://scikit-learn.org/), [matplotlib](http://scikit-learn.org/)
- - [OpenCV](http://opencv.org/)
+ - [Ubuntu 14.04](https://www.ubuntu.com/download)  
+ - [Tensorflow](https://www.tensorflow.org/)  
+ - [Caffe](http://caffe.berkeleyvision.org/)  
+ - [Theano](https://github.com/Theano/Theano)  
+ - [Keras](https://keras.io/)  
+ - [Lasagne](https://github.com/Lasagne/Lasagne)  
+ - [Torch](http://torch.ch/)  
+ - [Jupyter notebook](http://jupyter.org/)  
+ - [numpy](http://www.numpy.org/), [scipy](https://www.scipy.org/), [pandas](http://pandas.pydata.org/), [scikit-learn](http://scikit-learn.org/), [matplotlib](http://scikit-learn.org/)  
+ - [OpenCV](http://opencv.org/)  
 
 ## Setup
 
