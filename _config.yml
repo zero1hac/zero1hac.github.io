@@ -9,13 +9,13 @@ relative_permalinks: false
 # Setup
 title:            Dushyant Kumar
 tagline:          'Polymath'
-description:      'Polymath. Machine Learning, Deep learning, Data Science, statistics.'
-url:              
+description:      'Polymath. Computer Vision, Machine Learning, Deep learning, Data Science, statistics.'
+url:
 baseurl:          https://zero1hac.github.io/
 
 author:
   name:           'Dushyant Kumar'
-  url:            https://twitter.com/6dushyantmishra20101
+  url:            https://www.zeroonehacker.me
 
 paginate:         5
 
