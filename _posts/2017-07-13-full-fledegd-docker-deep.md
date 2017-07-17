@@ -10,20 +10,18 @@ Installing different Deep learning frameworks to function correctly together is 
 Since, Docker containers are persistent so there is no chance of messing up the configuration of the image. You can always kill the container and spin up a fresh container from the same image. So, this container is must have for your Deep learning projects.
 
 ## Specifications
-
- - [Ubuntu 14.04](https://www.ubuntu.com/download)  
- - [Tensorflow](https://www.tensorflow.org/)  
- - [Caffe](http://caffe.berkeleyvision.org/)  
- - [Theano](https://github.com/Theano/Theano)  
- - [Keras](https://keras.io/)  
- - [Lasagne](https://github.com/Lasagne/Lasagne)  
- - [Torch](http://torch.ch/)  
- - [Jupyter notebook](http://jupyter.org/)  
- - [numpy](http://www.numpy.org/), [scipy](https://www.scipy.org/), [pandas](http://pandas.pydata.org/), [scikit-learn](http://scikit-learn.org/), [matplotlib](http://scikit-learn.org/)  
- - [OpenCV](http://opencv.org/)  
+- [Ubuntu 14.04](https://www.ubuntu.com/download)
+- [Tensorflow](https://www.tensorflow.org/)
+- [Caffe](https://caffe.berkeleyvision.org/)
+- [Theano](https://github.com/Theano/Theano)
+- [Keras](https://keras.io/)
+- [Lasagne](https://github.com/Lasagne/Lasagne)
+- [Torch](https://torch.ch/)
+- [Jupyter notebook](https://jupyter.org/)
+- [numpy](https://www.numpy.org/), [scipy](https://www.scipy.org/), [pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org/), [matplotlib](https://scikit-learn.org/)
+- [OpenCV](https://opencv.org/)
 
 ## Setup
 
 #### Prerequisites
  1. Install Docker in your system using the installation guide [here](https://docs.docker.com/engine/installation/)
-
