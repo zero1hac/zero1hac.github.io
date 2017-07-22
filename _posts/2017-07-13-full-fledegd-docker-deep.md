@@ -24,4 +24,10 @@ Since, Docker containers are persistent so there is no chance of messing up the 
 ## Setup
 
 #### Prerequisites
- 1. Install Docker in your system using the installation guide [here](https://docs.docker.com/engine/installation/)
+ 1. Install Docker in your system using the installation guide [here](https://docs.docker.com/engine/installation/)  
+
+### Downloading the Docker image:
+
+```
+docker pull zeroonehacker/freetime-rush
+```
