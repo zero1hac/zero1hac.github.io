@@ -11,7 +11,7 @@ title:            Dushyant Kumar
 tagline:          'Polymath'
 description:      'Polymath. Computer Vision, Machine Learning, Deep learning, Data Science, statistics.'
 url:              www.zeroonehacker.me
-baseurl:          ""
+baseurl:          "/"
 
 author:
   name:           'Dushyant Kumar'
